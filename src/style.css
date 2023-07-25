@@ -50,6 +50,10 @@ h1 {
     cursor: pointer;
 }
 
+.tab.active {
+    border-bottom: 1px solid var(--white);
+}
+
 .main {
     background-color: var(--light-transparent-black);
     margin: 5rem 25%;
